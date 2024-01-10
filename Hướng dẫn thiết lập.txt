@@ -1,0 +1,3 @@
+Bước 1: Bạn hãy giải nén 2 tập tin này ra, gồm: tập tin chứa chương trình và tập tin chứa cơ sở dữ liệu.
+Bước 2: Sau đó attach cơ sở dữ liệu này vào SQL Server Management Studio của bạn (Tìm file CourseConnect.mdf).
+Bước 3: Sau khi attach thì bạn vào chương trình, chọn Server Explorer và kết nối với cơ sở dữ liệu CourseConnect.
